@@ -1,4 +1,4 @@
-# pyhton-basico
+# python-basico
 
 - Estruturas do python - parte I
 - Biblioteca numpy - parte II
