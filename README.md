@@ -1,5 +1,5 @@
 # pyhton-basico
 
-- Estruturas do python
-- Biblioteca numpy
-- Biblioteca pandas
+- Estruturas do python - parte I
+- Biblioteca numpy - parte II
+- Biblioteca pandas - Partes III, IV
